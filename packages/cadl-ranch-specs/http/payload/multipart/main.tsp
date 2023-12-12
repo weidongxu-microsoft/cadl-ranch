@@ -7,8 +7,14 @@ using TypeSpec.Http;
 @scenarioService("/multipart")
 namespace Payload.MultiPart;
 
+model Size {
+  width: int32;
+  height: int32;
+}
+
 model MultiPartRequest {
   id: string;
+  size: Size;
   profileImage: bytes;
 }
 
