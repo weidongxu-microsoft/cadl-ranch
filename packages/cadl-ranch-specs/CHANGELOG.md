@@ -1,5 +1,11 @@
 # @azure-tools/cadl-ranch-specs
 
+## 0.28.1
+
+### Patch Changes
+
+- 6fafb9a: Add more cases for default client hierarchy
+
 ## 0.28.0
 
 ### Minor Changes
