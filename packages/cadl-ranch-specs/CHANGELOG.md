@@ -1,5 +1,15 @@
 # @azure-tools/cadl-ranch-specs
 
+## 0.35.0
+
+### Minor Changes
+
+- b06f27c: added more tests to payload/xml
+
+### Patch Changes
+
+- fd4d452: Move azure page operation to a new folder
+
 ## 0.34.10
 
 ### Patch Changes
